@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Dunsinfo Solutions - AI-Powered Lead Discovery Platform",
   description:
     "Discover verified B2B leads with AI Hunter. Find contact emails, enrich them with intent, and close faster.",
+  icons: {
+    icon: "/favicon.png",
+  },
     generator: 'v0.dev'
 }
 
